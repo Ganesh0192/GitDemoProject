@@ -17,6 +17,7 @@ public class Chaining {
 	}
 	 public static void main(String[] args) {
 		Chaining chaining = new Chaining();
+		System.out.println("in a main method");
 		
 	}
 
